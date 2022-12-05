@@ -1,2 +1,2 @@
-# BGGN213_Lab20
+# BGGN213_Lab16
 Bioinformatics Class
